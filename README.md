@@ -11,8 +11,12 @@ Then we configure Nessus tool to act as a Vulnerability manager.
 
 ![image](https://github.com/JOELFRANKO/Vul_Manager/assets/81144974/2b8c8058-ee59-4369-ba8d-f7db0d7526a4)
 
-<h2>nessus Essentials</h2>
+<h2>Nessus Essentials</h2>
 - <b>Basic Scan:</b>
-get the IP of thw VM
+get the IP of thw VM and set it as a target in nessus and start scann.
+
+![image](https://github.com/JOELFRANKO/Vul_Manager/assets/81144974/dbb55807-d71b-43ad-b163-ff3d002157a2)
+
+<h2></h2>
 
 
