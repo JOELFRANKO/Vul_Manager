@@ -17,6 +17,6 @@ get the IP of thw VM and set it as a target in nessus and start scann.
 
 ![image](https://github.com/JOELFRANKO/Vul_Manager/assets/81144974/63d86b7e-056c-4080-be87-2c6d22b42502)
 
-<h2></h2>
+Now use the scann to remediate the Vulnerability.
 
 
